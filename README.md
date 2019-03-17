@@ -9,4 +9,14 @@ npm start
 Frontend:
 npm install (opens on http://localhost:3000/)
 npm start
+#
+To run Canvas:
+Backend: 
+npm install
+node app.js
+Frontend: 
+npm install
+SET PORT=3002  
+npm start
+
 
