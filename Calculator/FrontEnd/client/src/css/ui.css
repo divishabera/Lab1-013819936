@@ -1,0 +1,19 @@
+
+
+
+#FireButton
+{
+    width: 121px;
+    cursor: pointer;
+    height: 41px;
+
+
+    
+    background-color: rgb(61, 7, 34);
+}
+
+
+.operation_class
+{
+	margin-right: 1.6rem;
+}

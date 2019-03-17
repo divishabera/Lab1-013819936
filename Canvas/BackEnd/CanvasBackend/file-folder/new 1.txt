@@ -1,0 +1,24 @@
+google2575191_student@qwiklabs.net
+GV5dLtGM2
+qwiklabs-gcp-af04ac133f042e21
+
+pip install setuptools --upgrade
+conda install ecos
+conda install CVXcanon
+pip install np_utils
+pip install tensorflow
+pip install fancyimpute
+
+installed vs 2017 with python and c++ option only
+
+8 features
+platelets 
+
+billirubin
+5-6
+gender age alcohol
+
+mean
+
+to matrix
+

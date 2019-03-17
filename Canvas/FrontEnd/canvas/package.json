@@ -1,0 +1,32 @@
+{
+  "name": "canvas",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "*",
+    "react": "^16.8.3",
+    "react-cookie": "*",
+    "react-cookies": "*",
+    "react-dom": "^16.8.3",
+    "react-pdf": "^4.0.5",
+    "react-router": "*",
+    "react-router-dom": "*",
+    "react-scripts": "2.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:3003",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
