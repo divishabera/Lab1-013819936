@@ -16,7 +16,7 @@
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
     "express": "^4.16.4",
-    "express-fileupload": "^1.1.2-alpha.1",
+    "express-fileupload": "^1.1.9",
     "express-session": "^1.15.6",
     "express-sessions": "^1.0.6",
     "mysql": "^2.16.0"
